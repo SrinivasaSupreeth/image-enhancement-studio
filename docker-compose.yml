@@ -1,0 +1,8 @@
+services:
+  studio:
+    build: .
+    image: image-enhancement-studio
+    container_name: image-enhancement-studio
+    ports:
+      - "8501:8501"
+    restart: unless-stopped

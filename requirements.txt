@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-hub
+streamlit
+pillow
+numpy
+scipy
+scikit-image
